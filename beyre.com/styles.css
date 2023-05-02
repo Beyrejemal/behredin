@@ -626,9 +626,10 @@ color: var(--title-color);
 .project__container{
   overflow: initial;
 }
+
 .project__content img:hover{
   opacity: 70%;
-  border: 2px solid white;
+  border: 2px solid var(--container-color);
 }
 
 .project__content{
