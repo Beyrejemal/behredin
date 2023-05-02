@@ -629,7 +629,7 @@ color: var(--title-color);
 
 .project__content img:hover{
   opacity: 70%;
-  border: 2px solid var(--container-color);
+  border: 5px solid var(--container-color);
 }
 
 .project__content{
