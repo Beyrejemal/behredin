@@ -630,6 +630,7 @@ color: var(--title-color);
 .project__content img:hover{
   opacity: 70%;
   border: 5px solid var(--container-color);
+  transition: 300ms ease-in;
 }
 
 .project__content{
